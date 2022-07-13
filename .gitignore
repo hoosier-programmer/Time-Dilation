@@ -1,3 +1,11 @@
+
+#This code is written by me, this program calculates the time dilation ,We know that future time travel is possible but theoretically ,
+#IMO we are still travelling the time but in the usual speed where 1 minute is equal to 60 seconds or 1 second is equal to 1 second  
+#this gets tricky but that's the beauty of it. by this code you can calculate that how many years it will be in earth if we travel 
+#in the speed of light for  "x" years #REMEMBER WE TAKE VELOCITY AS A DECIMAL NUMBER ,
+#WE CAN'T USE AN INTEGER FOR IT :) #FOR AN EXAMPLE IF WE TAKE VELOCITY AS 0.99 #AND YEARS AS 10 #WE GET THE RESULT 70.88 YEARS
+
+
 from cmath import sqrt
 import math
 from re import I
